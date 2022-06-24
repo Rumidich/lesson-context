@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "todo": "Call office",
+      "id": 1
+    },
+    {
+      "todo": "Do morning meditation",
+      "id": 2
+    },
+    {
+      "todo": "Have a coffee",
+      "id": 3
+    },
+    {
+      "todo": "Grab some coffee",
+      "id": 4
+    }
+  ]
+}
